@@ -24,4 +24,5 @@ This Power BI project explores hotel revenue data, providing comprehensive insig
 ```bash
 git clone https://github.com/your-username/hotel-revenue-insights.git
 
-![Screenshot (19)](https://github.com/DhruvAPat/Data-Projects/assets/49668870/271c27a6-2ef2-489e-afc2-213a7c47d844)
+![Screenshot (19)](https://github.com/DhruvAPat/Data-Projects/assets/49668870/68b9aca6-1d69-4e5a-8b06-62e813368eb5)
+
